@@ -1,1 +1,1 @@
-# Part-2-Cas-de-plusieurs-entit-s-JPA-avec-relations-
+# Use case JPA, Hibernate Spring Data, One To Many, One To One
